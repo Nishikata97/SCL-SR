@@ -2,7 +2,7 @@
 
 ## Code
 
-This is the source code for the Paper: _Enhancing Session-based Recommendation with Contrastive Learning from Intent and Attribute Views by Exploring Substitutable and Complementary Relations_.
+This is the source code for the Paper: _Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations_.
 
 ## Requirements
 
