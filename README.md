@@ -73,7 +73,7 @@ Figure 2. Overview of SCL-SR.
 The datasets have been preprocessed and encoded with pickle, which can be downloaded from the [link](https://pan.baidu.com/s/1eJXDmYdPiyWgEDFcoEFstg) (password: v3bj)
 
 ## Trained models:
-To enhance the reproducibility of the model, we provide the trained model files in this [link](https://www.dropbox.com/scl/fo/b11lk8n1vgcf100x5sdys/AN5kai-jJVC-7nj9ATya0tg?rlkey=nr07t30cpmnmy78y7ojr6taxc&st=p1ivdbka&dl=0).
+To enhance the reproducibility of the model, we provide the trained model files in this [link](https://drive.google.com/drive/folders/17h8oWeRs0kfMPseWVMjZ4CkBnCceC26P?usp=sharing).
 
 ## Experiments
 
