@@ -103,9 +103,9 @@ If you find our work useful to your research, we kindly ask that you cite the fo
 
 ```
 @article{qian2025semantic,
-  title={Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations},
-  author = {Qian Zhang and Shoujin Wang and Longbing Cao and Defu Lian and Haibo Zhang and Wenpeng Lu},
-  journal={ACM Transactions on Information Systems},
-  year={2025}
+  title   = {Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations},
+  author  = {Zhang, Qian and Wang, Shoujin and Cao, Longbing and Lian, Defu and Zhang, Haibo and Lu, Wenpeng},
+  journal = {ACM Transactions on Information Systems},
+  year    = {2025}
 }
 ```
