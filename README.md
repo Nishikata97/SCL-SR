@@ -98,4 +98,14 @@ Figure 4. Hyper-parameter analysis and negative sample quantity analysis on diff
 
 Figure 5: Visualization of the learned item embeddings on Tmall dataset with and without intent-attribute disentangler.
 
+## Reference
+If you find our work useful to your research, we kindly ask that you cite the following paper:
 
+```
+@article{qian2025semantic,
+  title={Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations},
+  author = {Qian Zhang and Shoujin Wang and Longbing Cao and Defu Lian and Haibo Zhang and Wenpeng Lu},
+  journal={ACM Transactions on Information Systems},
+  year={2025}
+}
+```
